@@ -1,0 +1,19 @@
+{
+    "name": "rozin/contact",
+    "description": "This for learn how to create packages",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rozin\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RozinDzakwan",
+            "email": "rozindzakwan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
